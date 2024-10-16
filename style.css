@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(230, 226, 226);
+}
+
+#main-section{
+    border: 1px solid rgb(24, 21, 21);
+    background-color: white;
+    width: 500px;
+    height: 400px;
+    margin: 150px auto;
+}
+
+label,p{
+    color: cadetblue;
+    margin-left: 10px;
+}
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    color: cadetblue;
+}
+
+input[type="number"]{
+    width: 440px;
+    height: 30px;
+    border-color: blue;
+    margin-left: 10px;
+    color: cadetblue;
+}
+
+button{
+    width: 450px;
+    height: 40px;
+    border-radius: 15px;
+    background-color: #4caf50;
+    margin-left: 10px;
+    font-size: 25px;
+    color: white;
+}
+
+#bt:hover{
+    background-color: burlywood;
+}
